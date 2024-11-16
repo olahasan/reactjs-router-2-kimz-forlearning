@@ -59,8 +59,6 @@ Otherwise, all links will open in the same tab.
  ## Screenshot
  
 ![Screenshot](./public/router.png)
-![Screenshot](./public/router1.png)
-
 
 ### Author
 
