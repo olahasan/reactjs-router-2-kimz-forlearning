@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +36,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  background-color: green;
+  height: 50px;
+}
+.main{
+  height: calc(100vh - (50px + 72px));
+}
+.footer{
+  background-color: red;
+  height: 30px;
 }
